@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aestheticwords/static/css/main.e226fe69.css",
+    "main.js": "/aestheticwords/static/js/main.1b0b983e.js",
+    "static/js/787.1416c536.chunk.js": "/aestheticwords/static/js/787.1416c536.chunk.js",
+    "index.html": "/aestheticwords/index.html",
+    "main.e226fe69.css.map": "/aestheticwords/static/css/main.e226fe69.css.map",
+    "main.1b0b983e.js.map": "/aestheticwords/static/js/main.1b0b983e.js.map",
+    "787.1416c536.chunk.js.map": "/aestheticwords/static/js/787.1416c536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e226fe69.css",
+    "static/js/main.1b0b983e.js"
+  ]
+}
